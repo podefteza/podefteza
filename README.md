@@ -1,4 +1,5 @@
-Hello, world! 👋🏻 My name is Carlos. 👨 I'm 32 and I live in Portugal. 🇵🇹
+Hello, world! 👋🏻
+My name is Carlos and I'm sharpening my technical skills working daily with **C/C++ programming, algorithms, Unix systems, Git, and debugging** in a collaborative, peer-learning environment.
 
 Currently taking:
 - 💻 HarvardX - CS50's Introduction to Computer Science
